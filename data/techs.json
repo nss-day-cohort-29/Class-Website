@@ -16,6 +16,11 @@
       "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
     },
     {
+      "name": "React",
+      "image": "images/techs/react.png",
+      "link": "https://reactjs.org/"
+    },
+    {
       "name": "Git",
       "image": "images/techs/git.png",
       "link": "https://git-scm.com"
@@ -39,11 +44,6 @@
       "name": "Browserify",
       "image": "images/techs/browserify.png",
       "link": "http://browserify.org/"
-    },
-    {
-      "name": "NPM",
-      "image": "images/techs/npm.png",
-      "link": "https://www.npmjs.com/"
     },
     {
       "name": "Visual Studio Code",

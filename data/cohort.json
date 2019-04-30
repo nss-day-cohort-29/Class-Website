@@ -218,19 +218,6 @@
             "hired": false
         },
         {
-            "id": 17,
-            "firstName": "Megan",
-            "lastName": "Cruzen",
-            "bio": "I've loved computers since childhood and started dabbling with design and code in my teens. From AOL mailing lists to the high school newspaper layout to actual websites, I've always enjoyed designing via computer. I'm also a lover of languages, having majored in Linguistics and studied Latin, Japanese, and French, so it's no surprise I love computer languages as well. Although I've pursued other interests, I'm always drawn back to web development, as it feeds both my creative and analytical sides. Web development has been both a hobby and a side gig, but now I'm taking the next step to pursue it as a career with the help of Nashville Software School.",
-            "github": "https://github.com/megcruzen",
-            "linkedIn": "https://www.linkedin.com/in/megancruzen/",
-            "portfolio": "https://megcruzen.com/",
-            "email": "megcruzen@gmail.com",
-            "proImg": "images/classmates/MeganCruzen1.jpg",
-            "funImg": "images/classmates/MeganCruzen2.jpg",
-            "hired": true
-        },
-        {
             "id": 18,
             "firstName": "Nick",
             "lastName": "Hansen",
@@ -268,6 +255,19 @@
             "proImg": "images/classmates/ZacCrawford1.jpg",
             "funImg": "images/classmates/ZacCrawford2.jpg",
             "hired": false
+        },
+        {
+            "id": 17,
+            "firstName": "Megan",
+            "lastName": "Cruzen",
+            "bio": "I've loved computers since childhood and started dabbling with design and code in my teens. From AOL mailing lists to the high school newspaper layout to actual websites, I've always enjoyed designing via computer. I'm also a lover of languages, having majored in Linguistics and studied Latin, Japanese, and French, so it's no surprise I love computer languages as well. Although I've pursued other interests, I'm always drawn back to web development, as it feeds both my creative and analytical sides. Web development has been both a hobby and a side gig, but now I'm taking the next step to pursue it as a career with the help of Nashville Software School.",
+            "github": "https://github.com/megcruzen",
+            "linkedIn": "https://www.linkedin.com/in/megancruzen/",
+            "portfolio": "https://megcruzen.com/",
+            "email": "megcruzen@gmail.com",
+            "proImg": "images/classmates/MeganCruzen1.jpg",
+            "funImg": "images/classmates/MeganCruzen2.jpg",
+            "hired": true
         }
     ]
 }

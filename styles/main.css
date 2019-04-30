@@ -231,6 +231,10 @@ main {
     padding: 0px;
 }
 
+#techs {
+    align-items: center;
+}
+
 .techs {
     width: 70px;
     margin: 20px;
@@ -309,6 +313,9 @@ button{
     }
     .student-name {
         font-size: 22px;
+    }
+    .modal-body p {
+        font-size: 15px;
     }
     .studentContact {
         width: 150px;
