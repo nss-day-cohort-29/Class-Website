@@ -76,19 +76,6 @@
             "hired": false
         },
         {
-            "id": 7,
-            "firstName": "Cole",
-            "lastName": "Bryant",
-            "bio": "I'm no stranger to diving into complex problem domains and developing creative solutions. Working as an analyst at a healthcare valuation firm, I found myself eager to take on projects that involved manipulating data, researching challenging subjects and interacting with applications. I first began to explore programming as a way to optimize my analyses, but soon the world of software development began to reveal itself to me and I knew it was a path I couldn't ignore. I love having the opportunity to continually be learning and working in an environment where both attention to detail and an understanding of the larger scope are vitally important.",
-            "github": "https://github.com/colebryant",
-            "linkedIn": "https://www.linkedin.com/in/cole-bryant/",
-            "portfolio": "https://colewbryant.com/",
-            "email": "cobryant47@gmail.com",
-            "proImg": "images/classmates/ColeBryant1.jpg",
-            "funImg": "images/classmates/ColeBryant2.jpg",
-            "hired": false
-        },
-        {
             "id": 8,
             "firstName": "Colleen",
             "lastName": "Woolsey",
@@ -267,6 +254,19 @@
             "email": "megcruzen@gmail.com",
             "proImg": "images/classmates/MeganCruzen1.jpg",
             "funImg": "images/classmates/MeganCruzen2.jpg",
+            "hired": true
+        },
+        {
+            "id": 7,
+            "firstName": "Cole",
+            "lastName": "Bryant",
+            "bio": "I'm no stranger to diving into complex problem domains and developing creative solutions. Working as an analyst at a healthcare valuation firm, I found myself eager to take on projects that involved manipulating data, researching challenging subjects and interacting with applications. I first began to explore programming as a way to optimize my analyses, but soon the world of software development began to reveal itself to me and I knew it was a path I couldn't ignore. I love having the opportunity to continually be learning and working in an environment where both attention to detail and an understanding of the larger scope are vitally important.",
+            "github": "https://github.com/colebryant",
+            "linkedIn": "https://www.linkedin.com/in/cole-bryant/",
+            "portfolio": "https://colewbryant.com/",
+            "email": "cobryant47@gmail.com",
+            "proImg": "images/classmates/ColeBryant1.jpg",
+            "funImg": "images/classmates/ColeBryant2.jpg",
             "hired": true
         }
     ]
