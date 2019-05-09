@@ -118,7 +118,7 @@
             "id": 10,
             "firstName": "Grady",
             "lastName": "Robbins",
-            "bio": "Hello, World!  My path to NSS began in college, where I learned my first foreign language, Spanish.  It was humbling, and required immersion, persistence, and improving my listening skills. After college, I joined the Navy and saw the world.  Two skills I explicitly remember during my first bootcamp experience were &quot;Teamwork&quot; and &quot;Discipline&quot;, which our Drill Instructor strongly encouraged us to say aloud during every. single. push-up.  After the Navy, I was fortunate enough to learn Lean Process Improvement and Data Driven Decision Making at Cardinal Health as an Operations Team lead and Data profiler. After deciding that one bootcamp experience wasn't quite enough, I enrolled in Nashville Software School and haven't looked back! I Imagine myself inside the middle of a Venn-Diagram - combining learning new languages with Bootcamp.  Combining &quot;Humility&quot;, &quot;Teamwork&quot; and &quot;Discipline&quot;, along with copius amounts of delicious (read: free) NSS coffee. So grateful to continue growing into my new career in the Tech Industry, surrounded by a cohort of interesting and wildly talented people.",
+            "bio": "<strong>Hello, World!</strong>  My path to NSS began in college, where I learned my first foreign language, Spanish.  It was humbling, and required immersion, <mark>persistence</mark>, and improving my listening skills. After college, I joined the Navy and saw the world.  Two skills I explicitly remember during my first bootcamp experience were <mark>Teamwork</mark> and <mark>Discipline</mark>, which our Drill Instructor strongly encouraged us to say aloud during every. single. push-up.  After the Navy, I was fortunate enough to learn Lean/Six Sigma <mark>Process Improvement</mark> and Data Driven Decision Making at Cardinal Health as an Operations Team lead and Data profiler. After deciding that one bootcamp experience wasn't quite enough, I enrolled in Nashville Software School and haven't looked back! I imagine myself inside the middle of a Venn-Diagram - joining all of my previous experiences that led me here, copius amounts of <abbr title='read: free'>delicious</abbr> NSS coffee, and the incredible opportunity to continue growing into the Nashville Tech Community, alongside a cohort of interesting and wildly talented people.",
             "github": "https://github.com/gradyrobbins",
             "linkedIn": "https://www.linkedin.com/in/grady-robbins/",
             "portfolio": "https://gradyrobbins.github.io/",
@@ -192,23 +192,10 @@
             "hired": false
         },
         {
-            "id": 16,
-            "firstName": "Mary",
-            "lastName": "Remo",
-            "bio": "High School began to come to a close and I panicked. What did I want my lifetime career to be? I had no specific career paths that appealed to me. The only thing I knew was that I loved learning and I wanted to further my education. I double majored in Education and History in college. Fast forward 45 credit hours and I knew this was not the right path for me. I did not want to quit school though. Learning was the only thing I was sure about. That is when my brother introduced me to Software Development&mdash;a career in which you are in a constant state of learning. I chose to pursue this career and I enrolled into Nashville Software School. I have not looked back! I am very excited to continue this journey in Web Development!",
-            "github": "https://github.com/MaryRemo",
-            "linkedIn": "https://www.linkedin.com/in/mary-massie-remo-953b2b179/",
-            "portfolio": "https://maryremo.github.io/",
-            "email": "maryjewel99@gmail.com",
-            "proImg": "images/classmates/MaryRemo1.jpg",
-            "funImg": "images/classmates/MaryRemo2.jpg",
-            "hired": false
-        },
-        {
             "id": 18,
             "firstName": "Nick",
             "lastName": "Hansen",
-            "bio": "Tech has always been a passion of mine. Prior to entering NSS, I was a project manager and director in the public sector. I spend six years advocating for and buidling workforce development programs in the manufacturing, healthcare, logisitcs, and tech fields. I decided to move into the tech space to better align my love for solving problems, tech, and join a community of creative minds and life long learners in the Nashville dev community.",
+            "bio": "Tech has always been a passion of mine. Prior to entering NSS, I was a project manager and director in the public sector. I spent six years advocating for, and building, workforce development programs in the manufacturing, healthcare, logistics, and tech fields. I decided to make a career change to better align my love for solving problems and technology. I am excited to join a community of creative minds and life long learners in the Nashville dev community!",
             "github": "https://github.com/Nick-T-Hansen",
             "linkedIn": "https://www.linkedin.com/in/nick-t-hansen/",
             "portfolio": "https://nick-t-hansen.github.io/",
@@ -267,6 +254,19 @@
             "email": "cobryant47@gmail.com",
             "proImg": "images/classmates/ColeBryant1.jpg",
             "funImg": "images/classmates/ColeBryant2.jpg",
+            "hired": true
+        },
+        {
+            "id": 16,
+            "firstName": "Mary",
+            "lastName": "Remo",
+            "bio": "High School began to come to a close and I panicked. What did I want my lifetime career to be? I had no specific career paths that appealed to me. The only thing I knew was that I loved learning and I wanted to further my education. I double majored in Education and History in college. Fast forward 45 credit hours and I knew this was not the right path for me. I did not want to quit school though. Learning was the only thing I was sure about. That is when my brother introduced me to Software Development&mdash;a career in which you are in a constant state of learning. I chose to pursue this career and I enrolled into Nashville Software School. I have not looked back! I am very excited to continue this journey in Web Development!",
+            "github": "https://github.com/MaryRemo",
+            "linkedIn": "https://www.linkedin.com/in/mary-massie-remo-953b2b179/",
+            "portfolio": "https://maryremo.github.io/",
+            "email": "maryjewel99@gmail.com",
+            "proImg": "images/classmates/MaryRemo1.jpg",
+            "funImg": "images/classmates/MaryRemo2.jpg",
             "hired": true
         }
     ]
