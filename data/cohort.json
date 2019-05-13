@@ -153,19 +153,6 @@
             "hired": false
         },
         {
-            "id": 13,
-            "firstName": "Jordan",
-            "lastName": "Rosas",
-            "bio": "A tech savvy, trilingual, cellist originally from Washington state who enjoys telling computers what to do. I spent two years self studying Python and front end development. After applying to countless places and being rejected due to my lack of experience I decided it was time to invest in myself to make myself more marketable to prospective employers. After days of research I applied to Nashville Software School. After a competitive application/interview process, I received news that I had been accepted. I began my journey at NSS November 12 of 2018. Every day my understanding of development deepens and my skills continue to sharpen. I'm spending 40+ hours a week coding, manipulating data, and solving problems.",
-            "github": "https://github.com/JordanRosas",
-            "linkedIn": "https://www.linkedin.com/in/jordanrosas/",
-            "portfolio": "https://jordanrosas.dev/",
-            "email": "jordanrosasdev@gmail.com",
-            "proImg": "images/classmates/JordanRosas1.jpg",
-            "funImg": "images/classmates/JordanRosas2.jpg",
-            "hired": false
-        },
-        {
             "id": 14,
             "firstName": "Joseph",
             "lastName": "Baugh",
@@ -267,6 +254,19 @@
             "email": "maryjewel99@gmail.com",
             "proImg": "images/classmates/MaryRemo1.jpg",
             "funImg": "images/classmates/MaryRemo2.jpg",
+            "hired": true
+        },
+        {
+            "id": 13,
+            "firstName": "Jordan",
+            "lastName": "Rosas",
+            "bio": "A tech savvy, trilingual, cellist originally from Washington state who enjoys telling computers what to do. I spent two years self studying Python and front end development. After applying to countless places and being rejected due to my lack of experience I decided it was time to invest in myself to make myself more marketable to prospective employers. After days of research I applied to Nashville Software School. After a competitive application/interview process, I received news that I had been accepted. I began my journey at NSS November 12 of 2018. Every day my understanding of development deepens and my skills continue to sharpen. I'm spending 40+ hours a week coding, manipulating data, and solving problems.",
+            "github": "https://github.com/JordanRosas",
+            "linkedIn": "https://www.linkedin.com/in/jordanrosas/",
+            "portfolio": "https://jordanrosas.dev/",
+            "email": "jordanrosasdev@gmail.com",
+            "proImg": "images/classmates/JordanRosas1.jpg",
+            "funImg": "images/classmates/JordanRosas2.jpg",
             "hired": true
         }
     ]
