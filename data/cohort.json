@@ -38,19 +38,6 @@
             "hired": false
         },
         {
-            "id": 4,
-            "firstName": "Asia",
-            "lastName": "Carter",
-            "bio": "I've loved data and design for as long as I can remember. Attending Barnard College, Columbia University I set out to become an environmental engineer. After I realized that lab work didn't quite scratch my creative itch, I dove head first into a foreign industry&mdash;marketing&mdash;teaching myself the ropes and learning on the job, I worked for various small businesses on a contract basis for three years. Until finally, I stumbled upon an industry that married my two passions perfectly: software development.",
-            "github": "https://github.com/asiamcarter",
-            "linkedIn": "https://www.linkedin.com/in/asiamcarter/",
-            "portfolio": "http://asiamcarter.com/",
-            "email": "asiamcarter@gmail.com",
-            "proImg": "images/classmates/AsiaCarter1.jpg",
-            "funImg": "images/classmates/AsiaCarter2.jpg",
-            "hired": false
-        },
-        {
             "id": 5,
             "firstName": "Austin",
             "lastName": "Blade",
@@ -267,6 +254,19 @@
             "email": "jordanrosasdev@gmail.com",
             "proImg": "images/classmates/JordanRosas1.jpg",
             "funImg": "images/classmates/JordanRosas2.jpg",
+            "hired": true
+        },
+        {
+            "id": 4,
+            "firstName": "Asia",
+            "lastName": "Carter",
+            "bio": "I've loved data and design for as long as I can remember. Attending Barnard College, Columbia University I set out to become an environmental engineer. After I realized that lab work didn't quite scratch my creative itch, I dove head first into a foreign industry&mdash;marketing&mdash;teaching myself the ropes and learning on the job, I worked for various small businesses on a contract basis for three years. Until finally, I stumbled upon an industry that married my two passions perfectly: software development.",
+            "github": "https://github.com/asiamcarter",
+            "linkedIn": "https://www.linkedin.com/in/asiamcarter/",
+            "portfolio": "http://asiamcarter.com/",
+            "email": "asiamcarter@gmail.com",
+            "proImg": "images/classmates/AsiaCarter1.jpg",
+            "funImg": "images/classmates/AsiaCarter2.jpg",
             "hired": true
         }
     ]
