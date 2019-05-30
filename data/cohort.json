@@ -48,7 +48,7 @@
             "email": "aus10b@gmail.com",
             "proImg": "images/classmates/AustinBlade1.jpg",
             "funImg": "images/classmates/AustinBlade2.jpg",
-            "hired": false
+            "hired": true
         },
         {
             "id": 6,
@@ -137,7 +137,7 @@
             "email": "huntermettsdev@gmail.com",
             "proImg": "images/classmates/HunterMetts1.jpg",
             "funImg": "images/classmates/HunterMetts2.jpg",
-            "hired": false
+            "hired": true
         },
         {
             "id": 14,
