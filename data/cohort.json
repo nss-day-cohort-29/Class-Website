@@ -25,31 +25,7 @@
             "funImg": "images/classmates/AnupamaGarg2.jpg",
             "hired": false
         },
-        {
-            "id": 3,
-            "firstName": "Ashwin",
-            "lastName": "Prakash",
-            "bio": "Being a musician for most of my life has led me to realize how much I love to learn and create. I have also been fascinated by technology since I was a child. When I went to college, I was unsure what I wanted to do for the rest of my life. I decided to pursue Psychology because I was interested in helping people, and how people interact with the world around them. Despite my love for psychology I felt unsatisfied at my prospects after graduating and decided to focus on careers in technology. While nervous at first I applied to NSS and decided to make the leap into the world of programming. After spending 6 months I can safely say that I have never felt more at home and constantly challenged  before. I am improving everday and excited to continue my journey in this field.",
-            "github": "https://github.com/ashwinp94",
-            "linkedIn": "https://www.linkedin.com/in/ashwin-prakash-824545162/",
-            "email": "ashp94@gmail.com",
-            "proImg": "images/classmates/AshwinPrakash1.jpg",
-            "funImg": "images/classmates/AshwinPrakash2.jpg",
-            "hired": false
-        },
-        {
-            "id": 5,
-            "firstName": "Austin",
-            "lastName": "Blade",
-            "bio": "My journey to software development began as a graphic designer for a skateboarding company. Learning the art of design eventually lead me to start my own brand and venture into manufacturing clothing. While learning how to manage a business effectively, building a screenprinting facility, and going through college, I found my passion for building things. After an internship with a digital marketing agency, I gained a curiosity for development. That curiosity stuck, lead me to a job fixing software issues for a living, then to Nashville Software School where I learned to combine my interest in technology with my passion for building things.",
-            "github": "https://github.com/THATBLADEBOY",
-            "linkedIn": "https://www.linkedin.com/in/austin-blade-8ab337102/",
-            "portfolio": "https://austinblade.com/",
-            "email": "aus10b@gmail.com",
-            "proImg": "images/classmates/AustinBlade1.jpg",
-            "funImg": "images/classmates/AustinBlade2.jpg",
-            "hired": true
-        },
+   
         {
             "id": 6,
             "firstName": "Brittany",
@@ -126,19 +102,7 @@
             "funImg": "images/classmates/HannahNeal2.jpg",
             "hired": false
         },
-        {
-            "id": 12,
-            "firstName": "Hunter",
-            "lastName": "Metts",
-            "bio": "HTML, CSS, Bootstrap, Adobe XD, Javascript, Swift, APIs, SQL, Data Manipulation, JQuery, React, C#, and .Net. Learning, growing, solving, and creating. 40+ hours a week coding and virtually unbeatable at Mario Kart.",
-            "github": "https://github.com/huntermetts",
-            "linkedIn": "https://www.linkedin.com/in/hunter-metts/",
-            "portfolio": "https://huntermetts.github.io/",
-            "email": "huntermettsdev@gmail.com",
-            "proImg": "images/classmates/HunterMetts1.jpg",
-            "funImg": "images/classmates/HunterMetts2.jpg",
-            "hired": true
-        },
+        
         {
             "id": 14,
             "firstName": "Joseph",
@@ -267,6 +231,45 @@
             "email": "asiamcarter@gmail.com",
             "proImg": "images/classmates/AsiaCarter1.jpg",
             "funImg": "images/classmates/AsiaCarter2.jpg",
+            "hired": true
+        },
+             {
+            "id": 3,
+            "firstName": "Ashwin",
+            "lastName": "Prakash",
+            "bio": "Being a musician for most of my life has led me to realize how much I love to learn and create. I have also been fascinated by technology since I was a child. When I went to college, I was unsure what I wanted to do for the rest of my life. I decided to pursue Psychology because I was interested in helping people, and how people interact with the world around them. Despite my love for psychology I felt unsatisfied at my prospects after graduating and decided to focus on careers in technology. While nervous at first I applied to NSS and decided to make the leap into the world of programming. After spending 6 months I can safely say that I have never felt more at home and constantly challenged  before. I am improving everday and excited to continue my journey in this field.",
+            "github": "https://github.com/ashwinp94",
+            "linkedIn": "https://www.linkedin.com/in/ashwin-prakash-824545162/",
+            "email": "ashp94@gmail.com",
+            "proImg": "images/classmates/AshwinPrakash1.jpg",
+            "funImg": "images/classmates/AshwinPrakash2.jpg",
+            "hired": true
+        },
+        
+        {
+            "id": 5,
+            "firstName": "Austin",
+            "lastName": "Blade",
+            "bio": "My journey to software development began as a graphic designer for a skateboarding company. Learning the art of design eventually lead me to start my own brand and venture into manufacturing clothing. While learning how to manage a business effectively, building a screenprinting facility, and going through college, I found my passion for building things. After an internship with a digital marketing agency, I gained a curiosity for development. That curiosity stuck, lead me to a job fixing software issues for a living, then to Nashville Software School where I learned to combine my interest in technology with my passion for building things.",
+            "github": "https://github.com/THATBLADEBOY",
+            "linkedIn": "https://www.linkedin.com/in/austin-blade-8ab337102/",
+            "portfolio": "https://austinblade.com/",
+            "email": "aus10b@gmail.com",
+            "proImg": "images/classmates/AustinBlade1.jpg",
+            "funImg": "images/classmates/AustinBlade2.jpg",
+            "hired": true
+        },
+        {
+            "id": 12,
+            "firstName": "Hunter",
+            "lastName": "Metts",
+            "bio": "HTML, CSS, Bootstrap, Adobe XD, Javascript, Swift, APIs, SQL, Data Manipulation, JQuery, React, C#, and .Net. Learning, growing, solving, and creating. 40+ hours a week coding and virtually unbeatable at Mario Kart.",
+            "github": "https://github.com/huntermetts",
+            "linkedIn": "https://www.linkedin.com/in/hunter-metts/",
+            "portfolio": "https://huntermetts.github.io/",
+            "email": "huntermettsdev@gmail.com",
+            "proImg": "images/classmates/HunterMetts1.jpg",
+            "funImg": "images/classmates/HunterMetts2.jpg",
             "hired": true
         }
     ]
