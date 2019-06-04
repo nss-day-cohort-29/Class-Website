@@ -102,33 +102,7 @@
             "funImg": "images/classmates/HannahNeal2.jpg",
             "hired": false
         },
-        
-        {
-            "id": 14,
-            "firstName": "Joseph",
-            "lastName": "Baugh",
-            "bio": "As a full time musician I consistently found myself looking to technology in order to push creative limits.  Whether it was discovering new systems to make live concerts more effective, or finding software that could speed up the process of learning setlists, it was clear that tech could push everything to higher levels of quality.  Implementing this love of tech to build a recording studio I found myself enjoying the software just as much as the music I was producing with it.  It’s then that I began to study code. Now on track to become a software developer, I’m excited to see what things can be created in order to help ideas get pushed to their limits.",
-            "github": "https://github.com/jdbbaugh",
-            "linkedIn": "https://www.linkedin.com/in/joseph-baugh/",
-            "portfolio": "http://joeybaugh.com/",
-            "email": "joeybaugh@me.com",
-            "proImg": "images/classmates/JosephBaugh1.jpg",
-            "funImg": "images/classmates/JosephBaugh2.jpg",
-            "hired": false
-        },
-        {
-            "id": 15,
-            "firstName": "Justin",
-            "lastName": "Wheeler",
-            "bio": "I have spent most of my life in sales either as an individual contributor or managing a team. However, I came to a point where I lost  interest and passion for sales and decided to invest my focus in other areas. My entire life I had been driven by technology and my hobbies have alway been centered around the same pursuits.  I decided to take the leap and move towards my passion and pursue software development with the assistance of Nashville Software School to become a Full Stack Developer . I can honestly say I am happy with my choice. I am excited every day and looking forward to my next step.",
-            "github": "https://github.com/loetek",
-            "linkedIn": "https://www.linkedin.com/in/justindwheeler/",
-            "portfolio": "https://jdwheeler.dev/",
-            "email": "jdwheeler0@gmail.com",
-            "proImg": "images/classmates/JustinWheeler1.jpg",
-            "funImg": "images/classmates/JustinWheeler2.jpg",
-            "hired": false
-        },
+    
         {
             "id": 18,
             "firstName": "Nick",
@@ -270,6 +244,34 @@
             "email": "huntermettsdev@gmail.com",
             "proImg": "images/classmates/HunterMetts1.jpg",
             "funImg": "images/classmates/HunterMetts2.jpg",
+            "hired": true
+        },
+           
+        {
+            "id": 14,
+            "firstName": "Joseph",
+            "lastName": "Baugh",
+            "bio": "As a full time musician I consistently found myself looking to technology in order to push creative limits.  Whether it was discovering new systems to make live concerts more effective, or finding software that could speed up the process of learning setlists, it was clear that tech could push everything to higher levels of quality.  Implementing this love of tech to build a recording studio I found myself enjoying the software just as much as the music I was producing with it.  It’s then that I began to study code. Now on track to become a software developer, I’m excited to see what things can be created in order to help ideas get pushed to their limits.",
+            "github": "https://github.com/jdbbaugh",
+            "linkedIn": "https://www.linkedin.com/in/joseph-baugh/",
+            "portfolio": "http://joeybaugh.com/",
+            "email": "joeybaugh@me.com",
+            "proImg": "images/classmates/JosephBaugh1.jpg",
+            "funImg": "images/classmates/JosephBaugh2.jpg",
+            "hired": true
+        },
+         
+        {
+            "id": 15,
+            "firstName": "Justin",
+            "lastName": "Wheeler",
+            "bio": "I have spent most of my life in sales either as an individual contributor or managing a team. However, I came to a point where I lost  interest and passion for sales and decided to invest my focus in other areas. My entire life I had been driven by technology and my hobbies have alway been centered around the same pursuits.  I decided to take the leap and move towards my passion and pursue software development with the assistance of Nashville Software School to become a Full Stack Developer . I can honestly say I am happy with my choice. I am excited every day and looking forward to my next step.",
+            "github": "https://github.com/loetek",
+            "linkedIn": "https://www.linkedin.com/in/justindwheeler/",
+            "portfolio": "https://jdwheeler.dev/",
+            "email": "jdwheeler0@gmail.com",
+            "proImg": "images/classmates/JustinWheeler1.jpg",
+            "funImg": "images/classmates/JustinWheeler2.jpg",
             "hired": true
         }
     ]
