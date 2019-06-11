@@ -1,18 +1,6 @@
 {
     "cohort": [
-        {
-            "id": 1,
-            "firstName": "Allison",
-            "lastName": "Collins",
-            "bio": "After considering careers in psychological research, veterinary medicine, and teaching English abroad, as well as nurturing a lifelong inclination for creative design, I've found an intersection of my many interests in software development. I love that this field involves constant learning and adaptation&mdash;keeping my mind sharp and my problem-solving abilities strong. I have met a vast array of fascinating personalities and types of intelligence through my jobs and education, and find joy in connecting with and learning from people with all backgrounds and belief systems.",
-            "github": "https://github.com/allisonkatecollins",
-            "linkedIn": "https://www.linkedin.com/in/allisonkatecollins",
-            "portfolio": "http://allisonkatecollins.com/",
-            "email": "allisonkatecollins@gmail.com",
-            "proImg": "images/classmates/AllisonCollins1.jpg",
-            "funImg": "images/classmates/AllisonCollins2.jpg",
-            "hired": false
-        },
+     
         {
             "id": 2,
             "firstName": "Anupama",
@@ -51,19 +39,7 @@
             "funImg": "images/classmates/ColleenWoolsey2.jpg",
             "hired": false
         },
-        {
-            "id": 21,
-            "firstName": "Dakota",
-            "lastName": "Cookson",
-            "bio": "Ever since I was young I had a fascination with technology, I had started watching my dad fix computers when I was five and I was fixated on his craft, shortly after he got into development and although it took me awhile I became fascinated with how the power of the typed worked can influence the fundamentals of everything we do on a computer.",
-            "github": "https://github.com/dakotacookson",
-            "linkedIn": "https://www.linkedin.com/in/dakota-cookson-6003b0178/",
-            "portfolio": "https://dakotacookson.github.io/Dakota.Cookson.Github.io/",
-            "email": "dakota.cookson1995@gmail.com",
-            "proImg": "images/classmates/DakotaCookson1.jpg",
-            "funImg": "images/classmates/DakotaCookson2.jpg",
-            "hired": false
-        },
+        
         {
             "id": 9,
             "firstName": "Daniel",
@@ -90,18 +66,7 @@
             "funImg": "images/classmates/GradyRobbins2.jpg",
             "hired": false
         },
-        {
-            "id": 11,
-            "firstName": "Hannah",
-            "lastName": "Neal",
-            "bio": "<em>&quot;There is nothing we can't do if we work hard, never sleep, and shirk all other responsibilities in our lives.&quot; &mdash;Leslie Knope</em><br /><br />Curiosity is at the core of who I am and how I got here. I thrive in an environment that offers many opportunities for learning new things. I chose to pursue a career in the sciences for the sense of wonder it inspired and the idea that my curiosity would never be quenched. I dreamed of a laboratory career that celebrated non-stop learning and experimentation. After years of performing the same chemical tests over and over for clients, I came to the unhappy realization that I was not in the right industry. After some soul-searching, I found Nashville Software School and the career fit I was looking for. Software Development has endless opportunities for growth! As soon as I learn something new, I can implement it. I can always improve upon code and make a project better. My curiosity is sparked and quenched regularly. The world revolves around technology and promises to become ever more so dependent on it. I am pleased to be part of this exciting field!",
-            "github": "https://github.com/hannahmneal",
-            "linkedIn": "https://www.linkedin.com/in/hannah-neal/",
-            "email": "hannahmneal@gmail.com",
-            "proImg": "images/classmates/HannahNeal1.jpg",
-            "funImg": "images/classmates/HannahNeal2.jpg",
-            "hired": false
-        },
+      
     
         {
             "id": 18,
@@ -272,6 +237,44 @@
             "email": "jdwheeler0@gmail.com",
             "proImg": "images/classmates/JustinWheeler1.jpg",
             "funImg": "images/classmates/JustinWheeler2.jpg",
+            "hired": true
+        },
+           {
+            "id": 1,
+            "firstName": "Allison",
+            "lastName": "Collins",
+            "bio": "After considering careers in psychological research, veterinary medicine, and teaching English abroad, as well as nurturing a lifelong inclination for creative design, I've found an intersection of my many interests in software development. I love that this field involves constant learning and adaptation&mdash;keeping my mind sharp and my problem-solving abilities strong. I have met a vast array of fascinating personalities and types of intelligence through my jobs and education, and find joy in connecting with and learning from people with all backgrounds and belief systems.",
+            "github": "https://github.com/allisonkatecollins",
+            "linkedIn": "https://www.linkedin.com/in/allisonkatecollins",
+            "portfolio": "http://allisonkatecollins.com/",
+            "email": "allisonkatecollins@gmail.com",
+            "proImg": "images/classmates/AllisonCollins1.jpg",
+            "funImg": "images/classmates/AllisonCollins2.jpg",
+            "hired": true
+        },
+          {
+            "id": 11,
+            "firstName": "Hannah",
+            "lastName": "Neal",
+            "bio": "<em>&quot;There is nothing we can't do if we work hard, never sleep, and shirk all other responsibilities in our lives.&quot; &mdash;Leslie Knope</em><br /><br />Curiosity is at the core of who I am and how I got here. I thrive in an environment that offers many opportunities for learning new things. I chose to pursue a career in the sciences for the sense of wonder it inspired and the idea that my curiosity would never be quenched. I dreamed of a laboratory career that celebrated non-stop learning and experimentation. After years of performing the same chemical tests over and over for clients, I came to the unhappy realization that I was not in the right industry. After some soul-searching, I found Nashville Software School and the career fit I was looking for. Software Development has endless opportunities for growth! As soon as I learn something new, I can implement it. I can always improve upon code and make a project better. My curiosity is sparked and quenched regularly. The world revolves around technology and promises to become ever more so dependent on it. I am pleased to be part of this exciting field!",
+            "github": "https://github.com/hannahmneal",
+            "linkedIn": "https://www.linkedin.com/in/hannah-neal/",
+            "email": "hannahmneal@gmail.com",
+            "proImg": "images/classmates/HannahNeal1.jpg",
+            "funImg": "images/classmates/HannahNeal2.jpg",
+            "hired": true
+        },
+        {
+            "id": 21,
+            "firstName": "Dakota",
+            "lastName": "Cookson",
+            "bio": "Ever since I was young I had a fascination with technology, I had started watching my dad fix computers when I was five and I was fixated on his craft, shortly after he got into development and although it took me awhile I became fascinated with how the power of the typed worked can influence the fundamentals of everything we do on a computer.",
+            "github": "https://github.com/dakotacookson",
+            "linkedIn": "https://www.linkedin.com/in/dakota-cookson-6003b0178/",
+            "portfolio": "https://dakotacookson.github.io/Dakota.Cookson.Github.io/",
+            "email": "dakota.cookson1995@gmail.com",
+            "proImg": "images/classmates/DakotaCookson1.jpg",
+            "funImg": "images/classmates/DakotaCookson2.jpg",
             "hired": true
         }
     ]
