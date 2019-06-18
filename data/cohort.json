@@ -13,19 +13,7 @@
             "funImg": "images/classmates/AnupamaGarg2.jpg",
             "hired": false
         },
-   
-        {
-            "id": 6,
-            "firstName": "Brittany",
-            "lastName": "Ramos-Janeway",
-            "bio": "A budding software engineer who loves a technical problem to solve. After graduating from the University of Chicago in 2015 I started a quest to try and find my professional direction. After a couple of years and a few different employment adventures, I decided that the best way to fulfill my desire to become a life-long learner and problem solver would be through programming, leading to my transition into the dev world.",
-            "github": "https://github.com/bramosja",
-            "linkedIn": "https://www.linkedin.com/in/brittany-ramos-janeway/",
-            "email": "bramosjaneway@gmail.com",
-            "proImg": "images/classmates/BrittanyRamosJaneway1.jpg",
-            "funImg": "images/classmates/BrittanyRamosJaneway2.jpg",
-            "hired": false
-        },
+ 
         {
             "id": 8,
             "firstName": "Colleen",
@@ -66,21 +54,7 @@
             "funImg": "images/classmates/GradyRobbins2.jpg",
             "hired": false
         },
-      
-    
-        {
-            "id": 18,
-            "firstName": "Nick",
-            "lastName": "Hansen",
-            "bio": "Tech has always been a passion of mine. Prior to entering NSS, I was a project manager and director in the public sector. I spent six years advocating for, and building, workforce development programs in the manufacturing, healthcare, logistics, and tech fields. I decided to make a career change to better align my love for solving problems and technology. I am excited to join a community of creative minds and life long learners in the Nashville dev community!",
-            "github": "https://github.com/Nick-T-Hansen",
-            "linkedIn": "https://www.linkedin.com/in/nick-t-hansen/",
-            "portfolio": "https://nick-t-hansen.github.io/",
-            "email": "nick.hansen13@gmail.com",
-            "proImg": "images/classmates/NickHansen1.jpg",
-            "funImg": "images/classmates/NickHansen2.jpg",
-            "hired": false
-        },
+     
         {
             "id": 19,
             "firstName": "Russell",
@@ -275,6 +249,32 @@
             "email": "dakota.cookson1995@gmail.com",
             "proImg": "images/classmates/DakotaCookson1.jpg",
             "funImg": "images/classmates/DakotaCookson2.jpg",
+            "hired": true
+        },
+          
+        {
+            "id": 6,
+            "firstName": "Brittany",
+            "lastName": "Ramos-Janeway",
+            "bio": "A budding software engineer who loves a technical problem to solve. After graduating from the University of Chicago in 2015 I started a quest to try and find my professional direction. After a couple of years and a few different employment adventures, I decided that the best way to fulfill my desire to become a life-long learner and problem solver would be through programming, leading to my transition into the dev world.",
+            "github": "https://github.com/bramosja",
+            "linkedIn": "https://www.linkedin.com/in/brittany-ramos-janeway/",
+            "email": "bramosjaneway@gmail.com",
+            "proImg": "images/classmates/BrittanyRamosJaneway1.jpg",
+            "funImg": "images/classmates/BrittanyRamosJaneway2.jpg",
+            "hired": true
+        },
+            {
+            "id": 18,
+            "firstName": "Nick",
+            "lastName": "Hansen",
+            "bio": "Tech has always been a passion of mine. Prior to entering NSS, I was a project manager and director in the public sector. I spent six years advocating for, and building, workforce development programs in the manufacturing, healthcare, logistics, and tech fields. I decided to make a career change to better align my love for solving problems and technology. I am excited to join a community of creative minds and life long learners in the Nashville dev community!",
+            "github": "https://github.com/Nick-T-Hansen",
+            "linkedIn": "https://www.linkedin.com/in/nick-t-hansen/",
+            "portfolio": "https://nick-t-hansen.github.io/",
+            "email": "nick.hansen13@gmail.com",
+            "proImg": "images/classmates/NickHansen1.jpg",
+            "funImg": "images/classmates/NickHansen2.jpg",
             "hired": true
         }
     ]
