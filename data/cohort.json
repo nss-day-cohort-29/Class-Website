@@ -27,20 +27,6 @@
             "funImg": "images/classmates/ColleenWoolsey2.jpg",
             "hired": false
         },
-        
-        {
-            "id": 9,
-            "firstName": "Daniel",
-            "lastName": "Brewer",
-            "bio": "I've experienced success as an Independent Insurance Agent, General Manager, and District Training Manager. Each of these roles afforded me the opportunity to read and create data-driven reports, troubleshoot complex problems, and develop a solution-based approach to challenges. Being a lifelong learner and part-time musician, I am always eager to gain understanding in new technologies. This mindset has led me to embrace my creative side and explore the world of software development. I'm encouraged by the knowledge that I've gained so far, and look forward to continually growing in my capabilities. I am comfortable working in a team environment or independently, and will fit into multiple work cultures.",
-            "github": "https://github.com/Daniel-Brewer",
-            "linkedIn": "https://www.linkedin.com/in/daniel-brewer-298246b/",
-            "portfolio": "https://daniel-brewer.github.io/",
-            "email": "danielbrewer15@gmail.com",
-            "proImg": "images/classmates/DanielBrewer1.jpg",
-            "funImg": "images/classmates/DanielBrewer2.jpg",
-            "hired": false
-        },
         {
             "id": 10,
             "firstName": "Grady",
@@ -275,6 +261,19 @@
             "email": "nick.hansen13@gmail.com",
             "proImg": "images/classmates/NickHansen1.jpg",
             "funImg": "images/classmates/NickHansen2.jpg",
+            "hired": true
+        },
+          {
+            "id": 9,
+            "firstName": "Daniel",
+            "lastName": "Brewer",
+            "bio": "I've experienced success as an Independent Insurance Agent, General Manager, and District Training Manager. Each of these roles afforded me the opportunity to read and create data-driven reports, troubleshoot complex problems, and develop a solution-based approach to challenges. Being a lifelong learner and part-time musician, I am always eager to gain understanding in new technologies. This mindset has led me to embrace my creative side and explore the world of software development. I'm encouraged by the knowledge that I've gained so far, and look forward to continually growing in my capabilities. I am comfortable working in a team environment or independently, and will fit into multiple work cultures.",
+            "github": "https://github.com/Daniel-Brewer",
+            "linkedIn": "https://www.linkedin.com/in/daniel-brewer-298246b/",
+            "portfolio": "https://daniel-brewer.github.io/",
+            "email": "danielbrewer15@gmail.com",
+            "proImg": "images/classmates/DanielBrewer1.jpg",
+            "funImg": "images/classmates/DanielBrewer2.jpg",
             "hired": true
         }
     ]
