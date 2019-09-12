@@ -13,20 +13,6 @@
             "funImg": "images/classmates/AnupamaGarg2.jpg",
             "hired": false
         },
- 
-        {
-            "id": 8,
-            "firstName": "Colleen",
-            "lastName": "Woolsey",
-            "bio": "When seeking to give, it's helpful to consider yourself a person of many talents. I'm a software developer because I enjoy the challenge of building and discovery. The satisfaction of a working feature is compelling. I'm a writer because I enjoy working at a craft where the horizon is always beyond reach. The feedback I hear most from friends and former strangers is that I have a gift for hospitality. While there are many things I enjoy, my passion is people. One of my dreams is to be part of a mobile disaster relief team that helps people process trauma in the midst of it. After Nashville Software School my next quest is to become adept at mediation. I'm a conscientious coder and an enthusiastic learner, but my &quot;Full Stack&quot; is most evident as I move toward making my hopes and dreams reality.",
-            "github": "https://github.com/ColleenWoolsey",
-            "linkedIn": "https://www.linkedin.com/in/colleen-woolsey-1b32a672/",
-            "portfolio": "https://colleenwoolsey.github.io/",
-            "email": "rlwool@aol.com",
-            "proImg": "images/classmates/ColleenWoolsey1.jpg",
-            "funImg": "images/classmates/ColleenWoolsey2.jpg",
-            "hired": false
-        },
         {
             "id": 10,
             "firstName": "Grady",
@@ -275,6 +261,20 @@
             "proImg": "images/classmates/DanielBrewer1.jpg",
             "funImg": "images/classmates/DanielBrewer2.jpg",
             "hired": true
-        }
+        },
+      
+        {
+            "id": 8,
+            "firstName": "Colleen",
+            "lastName": "Woolsey",
+            "bio": "When seeking to give, it's helpful to consider yourself a person of many talents. I'm a software developer because I enjoy the challenge of building and discovery. The satisfaction of a working feature is compelling. I'm a writer because I enjoy working at a craft where the horizon is always beyond reach. The feedback I hear most from friends and former strangers is that I have a gift for hospitality. While there are many things I enjoy, my passion is people. One of my dreams is to be part of a mobile disaster relief team that helps people process trauma in the midst of it. After Nashville Software School my next quest is to become adept at mediation. I'm a conscientious coder and an enthusiastic learner, but my &quot;Full Stack&quot; is most evident as I move toward making my hopes and dreams reality.",
+            "github": "https://github.com/ColleenWoolsey",
+            "linkedIn": "https://www.linkedin.com/in/colleen-woolsey-1b32a672/",
+            "portfolio": "https://colleenwoolsey.github.io/",
+            "email": "rlwool@aol.com",
+            "proImg": "images/classmates/ColleenWoolsey1.jpg",
+            "funImg": "images/classmates/ColleenWoolsey2.jpg",
+            "hired": true
+        },
     ]
 }
